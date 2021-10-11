@@ -1,4 +1,4 @@
-# Lista de Exercícios - Map, Filter & Reduce
+# Lista de Exercícios - Map, Filter e Reduce
 Repositório contendo as resoluções dos exercícios de map, filter e reduce do curso Web FullStack (Let's Code). Cada script é referente a um exercício e tem o seu enunciado comentado no arquivo.
 
 # Usage:
